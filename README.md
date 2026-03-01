@@ -43,6 +43,8 @@
 
 ## Installation
 
+Install the MCP server to scan packages directly from your IDE. See the [MCP server repo](https://github.com/depfenderdev/mcp) for full setup instructions.
+
 ### Cursor
 
 Add to your Cursor MCP settings:

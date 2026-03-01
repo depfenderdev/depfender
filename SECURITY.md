@@ -25,9 +25,10 @@ Include:
 ### Scope
 
 This policy applies to:
-- The `@depfenderdev/mcp` package
 - The depfender.dev website
 - Any official Depfender services
+
+For security issues related to the MCP server (`@depfenderdev/mcp`), please report to the [MCP repo](https://github.com/depfenderdev/mcp/security/policy).
 
 ### Recognition
 
